@@ -199,11 +199,11 @@ nav{
     display: flex;
     gap: 20px;
 }
-.featured-text-btn>.blue-btn{
+.featured-text-btn>a .blue-btn{
     background: var(--first-color);
     color: var(--color-white);
 }
-.featured-text-btn>.blue-btn:hover{
+.featured-text-btn>a .blue-btn:hover{
     background: var(--first-color-hover);
 }
 .social_icons{
